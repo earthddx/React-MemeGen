@@ -20,7 +20,6 @@ header > p {
   color: whitesmoke;
   text-shadow: #000;
   font-size: 50px;
-  margin-left: 60px;
   text-shadow: 2px 2px 8px rgb(8, 22, 7);
 }
 
@@ -81,7 +80,7 @@ header > p {
 
 .meme-form > button {
   border: none;
-  font-family: VT323, monospace;
+  font-family: monospace;
   font-size: 25px;
   letter-spacing: 1.5px;
   color: rgb(64, 78, 204);
