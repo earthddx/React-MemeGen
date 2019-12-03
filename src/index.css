@@ -90,6 +90,7 @@ header > p {
   background: black;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+  cursor: pointer;
 }
 .meme-form > button:hover {
   background-color:#c3c3c3;
