@@ -2,6 +2,8 @@
   box-sizing: border-box;
 }
 
+
+
 body {
   margin: 0;
   background-color: rgb(59, 56, 56);
@@ -20,6 +22,7 @@ header > p {
   color: whitesmoke;
   text-shadow: #000;
   font-size: 50px;
+  margin-left: 60px;
   text-shadow: 2px 2px 8px rgb(8, 22, 7);
 }
 
@@ -148,5 +151,16 @@ footer > p {
   font-family: monospace;
   text-shadow:2px 2px #000;
   color: whitesmoke;
+  
+}
+
+
+@media  (min-width: 950px) {
+  .meme {
+    width: 40%;
+  }
+  .meme-form {
+    width: 40%;
+  }
   
 }
